@@ -9,7 +9,6 @@ $(function () {
       newHeight = 100;
     }
     $dropDown.css({'max-height': newHeight});
-    console.log('resize');
   };
 
   $userSelect.on('select2:open', function () {
