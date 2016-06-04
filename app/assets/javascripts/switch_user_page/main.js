@@ -1,6 +1,6 @@
 $(function () {
   $userSelect = $('#switch_user_identifier')
-  $userSelect.select2({width: 400});
+  $userSelect.select2({width: 600});
 
   function resizeDropdown() {
     $dropDown = $('.select2-container--default .select2-results > .select2-results__options');
