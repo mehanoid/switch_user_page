@@ -20,4 +20,4 @@ Add in config/routes.rb.
 mount SwitchUserPage::Engine, at: 'switch_user_page' if defined? SwitchUserPage::Engine
 ```
 
-Now you can go to path /switch_user_page and use it to quick switch between users.
+Now you can go to path /switch_user_page and use it to quickly switch between users.
