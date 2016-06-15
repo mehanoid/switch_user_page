@@ -1,10 +1,10 @@
 # SwitchUserPage
 
-This gem provides ready to user page for switching users in development/staging environment in your Ruby on Rails project. 
+This gem provides ready to use page for switching users in development/staging environment in your Ruby on Rails project. 
 
 ## Install
 
-Add in Gemfile.
+Add to Gemfile.
 ```ruby
 group :development, :staging do
   gem 'switch_user'
